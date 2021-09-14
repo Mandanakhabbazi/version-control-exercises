@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 haha
 hahahaha
 hahahahahah
+=======
+test test test
+nog meer test
+>>>>>>> 91a631ad0ac0ac623844977515748e26d1df7577
